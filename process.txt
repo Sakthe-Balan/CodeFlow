@@ -1,0 +1,14 @@
+ps aux | grep jenkins
+sudo kill ()
+
+
+mostly in /home/ubuntu/.jenkins
+
+
+
+<useSecurity>false</useSecurity>
+and then restart server to apply changes
+
+normal root directory we get is /home/ubuntu
+
+if you dont use sudo su. then with every docekr command you will have to use sudo
