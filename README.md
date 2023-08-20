@@ -36,4 +36,4 @@ This project is more than a solution; it's a foundation for future expansion. Th
 
 As technology continues to evolve, the CI/CD Java Pipeline project stands as a beacon of adaptability, a showcase of efficient automation, and a testament to the transformative power of DevOps in the modern development landscape.
 
-##Detailed instructions to replicate the pipeline will be Available soon
+### Detailed instructions to replicate the pipeline will be Available soon
